@@ -1,0 +1,332 @@
+skripsi_id;skripsi_judul;skripsi_isi;skripsi_link
+1;SISTEM BERBASIS PENGETAHUAN UNTUK MENGIDENTIFIKASI JENIS BURUNG KENARI LOKAL MENGGUNAKAN METODE CERTAINTY FACTOR;"Burung kenari (Serinus Canaria) adalah salah satu burung ocehan yang berasal
+dari pulau canary yang bersuara sangat merdu, alunan lagu dan variasi cengkoknya
+sangatlah banyak. Tak ayal saat ini sangat banyak hobis kicauan yang
+berbondong-bondong mencari dan merawat calon-calon burung kenari yang akan
+diperlombakan. Kini banyak peternak menyilangkan kenari-kenari impor dengan
+postur yang bagus dengan kenari lokal yang memiliki suara yang indah dan merdu
+dengan alunan lagu bervariatif. Dari situlah timbul kesempatan peluang untuk
+mencoba beternak burung kenari. Karena harganya pun memiliki nilai ekonomis yang
+tinggi dan dapat di jadikan usaha yang terus dikembangkan. Tetapi untuk seorang
+pemula mungkin akan kesulitan untuk mengenali jenis burung kenari lokal yang
+beredar dipasaran antara satu dengan lainnya karena untuk mengenali jenis kenari ini
+harus mengetahui persilangan dari indukkan kenari tersebut. Selain itu jenis kenari
+juga dapat dikenali dengan memperhatikan ciri–ciri dari kenari tersebut.
+Keterlibatan Teknologi Informasi telah menjadikan semua bidang ilmu dapat
+menyajikan informasinya melalui suatu aplikasi komputer. Sistem pakar merupakan
+program komputer berbasis pengetahuan (knowledge) yang menyediakan solusi bagi
+suatu permasalahan dalam bidang keahlian tertentu. Dengan Sistem Pakar, keahlian
+2
+seorang pakar dapat diaplikasikan ke komputer.
+Sistem pakar sendiri dapat diimplementasikan ke dalam berbagai bidang,
+misalnya kedokteran (medis), Pertanian, industri, elektronik dan sebagainya. Di
+dalam bidang peternakkan, sistem pakar biasanya digunakan untuk mengidentifikasi
+jenis dari suatu hewan atau jenis penyakit yang menyerang hewan tersebut, dimana
+pengetahuan yang dimiliki pakar disimpan dalam suatu program aplikasi sehingga
+pemakai dapat berinteraksi dengan komputer selayaknya sedang berkonsultasi
+langsung dengan seorang pakar.
+Oleh karena itu, berdasarkan uraian diatas diperlukan sebuah sistem untuk
+membantu seorang peternak pemula mengenali dan membedakan jenis kenari lokal
+yang beredar di Indonesia. Penulis bermaksud membuat sistem pakar untuk
+mengidentifikasi jenis kenari berdasarkan ciri – ciri tubuh menggunakan metode
+certainty factor sehingga diharapkan pengguna dari sistem ini dapat mengetahui jenis
+kenari apa yang ingin pengguna ketahui.";https://eprints.utdi.ac.id/7326/ 
+2;" 	
+PEMROGRAMAN APLIKASI MOBILE BERBASIS ANDROID OIA UGM: PANDUAN STUDI DI UGM BAGI MAHASISWA ASING ";"Office of International Affairs (OIA) atau Kantor Urusan Internasional (KUI)
+Universitas Gadjah Mada (UGM), selanjutnya disingkat OIA UGM adalah salah
+satu unit di UGM yang bidang kerjanya adalah melingkupi semua hal yang
+berkaitan dengan internasional dan melayani semua mobilitas internasional keluar
+dan masuk UGM. Mobilitas keluar meliputi tugas belajar atau studi, penelitian dan
+kunjungan yang dilakukan segenap civitas akademika termasuk pimpinan
+universitas, sedangkan mobilitas ke dalam oleh orang asing dapat berupa kegiatan
+studi, penelitian, kerja atau kunjungan, dengan persentase terbanyak adalah
+mahasiswa asing yang melakukan kegiatan studi.
+OIA UGM mengelola rata-rata 1.000-2.000 mahasiswa asing setiap tahunnya,
+sementara aplikasi yang masuk lebih dari itu, sehingga harus senantiasa
+berkembang meningkatkan pelayanan dan kinerjanya agar calon dan atau
+mahasiswa asing terpuaskan kebutuhan akademik dan non-akademiknya, apalagi
+OIA UGM merupakan perintis bagi OIA perguruan tinggi di Indonesia, yang
+menjadi acuan awal bagi pembentukan maupun operasional kegiatannya.
+Selama ini calon atau mahasiswa asing mendapatkan informasi tentang UGM
+dan tata cara admisi atau pendaftarannya melalui konsultasi melalui e-mail, telpon,
+tatap muka dan sms, buku saku serta menjelajah situs atau internet. Namun saat ini
+tuntutan masyarakat telah berkembang, seiring dengan kemajuan teknologi yang
+2
+begitu pesat dimana dunia hanya dalam genggaman tangan, tidak hanya sekedar
+mendapatkan informasi, namun kecepatan dan kemudahan mendapatkan informasi
+merupakan suatu kebutuhan. Hal tersebut begitu mudah didapatkan melalui gadget
+atau smartphone, sehingga banyak orang atau institusi yang menyampaikan atau
+mencari informasi melalui perangkat tersebut.
+Gadget atau smartphone memiliki beberapa platform sistem operasi, seperti
+IOS untuk produk apple, windows phone dan yang paling banyak digunakan adalah
+smartphone berbasis android, karena selain mudah dan user friendly bagi
+pengguna, juga bersifat open source dan freeware bagi siapa saja untuk membuat
+atau membangun aplikasi di android.
+Berdasarkan penelusuran, sejauh ini belum ada mobile application berbasis
+android untuk smartphone yang menyajikan informasi tentang UGM maupun
+pendaftaran bagi mahasiswa asing terutama dalam bahasa Inggris. Seperti ECC
+UGM adalah aplikasi untuk karir alumni, even dan lowongan kerja. Simulasi UM
+UGM 2017 merupakan simulasi tes masuk UGM, UGM Bookstore berisi info
+layanan dan buku-buku dijual terbitan UGM Press, mLibrary UGM digunakan
+untuk mendapatkan informasi atau meminjam buku di Perpustakaan UGM, UGM
+Event berisi kompilasi kegiatan UGM dari berbagai akun sosial media, Berita UGM
+hanya memuat berita-berita tentang peristiwa seputar UGM, Siaga UGM
+diperuntukkan untuk civitas akademika UGM mengirimkan informasi keselamatan
+diri dalam keadaan darurat, Gamada Maps untuk membantu mahasiswa baru
+mengetahui lokasi-lokasi keperluan mahasiswa di sekitar kampus UGM,
+TAGAMA menyampaikan informasi seputar prestasi akademik dan nonakademik
+3
+mahasiswa UGM dan Vokasi Info Center (VIC) merupakan aplikasi yang
+menampilkan info-info terbaru di UGM seperti karir, lowongan kerja, expo, even,
+dsb., dan terintegrasi dengan seluruh website dan media sosial di lingkungan UGM.
+Aplikasi android dari luar UGM pun belum ada yang menyajikan panduan
+admisi bagi mahasiswa asing, panduan ijin belajar dan panduan staying legally di
+Indonesia, apalagi dalam bahasa Inggris. Seperti aplikasi Panduan Kegiatan
+Akademik Universitas Gunadharma hanya berisi info kegiatan akademik dan
+fasilitas kampus, SIA STMIK GI MDP menyajikan materi perkuliahan, info nilai,
+jadual, tugas, pengumuman dan forum, aplikasi SIG UNDIP lebih menekankan
+geografis berwujud peta kampus dan lokasi gedung selain ada data dosen serta info
+fakultas dan jurusan, AKAKOM Mobile berisi informasi dasar statuta AKAKOM
+berupa profil, program studi, kegiatan mahasiswa, Penerimaan Mahasiswa Baru
+dan kontak, dan aplikasi Penerimaan Mahasiswa UNNES merupakan aplikasi berisi
+informasi tentang Penerimaan Mahasiswa Baru Universitas Negeri Semarang dan
+informasi singkat tentang fasilitas kampus.
+Perlu diketahui juga bahwa prosedur dan persyaratan orang asing untuk
+menjadi mahasiswa di Indonesia tidak hanya berupa prosedur dan persyaratan
+bersifat akademik yang dibutuhkan dalam proses penerimaan mahasiswa baru suatu
+institusi pendidikan, melainkan juga ada prosedur dan persyaratan ijin belajar dan
+ijin tinggal (staying legally) yang harus dipenuhi dan dilakukan oleh orang asing
+agar dapat belajar atau studi di Indonesia. Dengan kata lain, calon mahasiswa asing
+yang lolos secara akademik oleh suatu institusi pendidikan di Indonesia belum tentu
+4
+dapat belajar atau studi di Indonesia jika permohonan Ijin Belajar dan Ijin
+Tinggalnya tidak disetujui oleh Pemerintah Indonesia melalui institusi terkait.
+Apalagi jika dibandingkan dengan birokrasi untuk studi di negara lain,
+prosedur dan persyaratan untuk studi di Indonesia cukup rumit, bahkan itu juga
+menjadi pertimbangan bagi sebagian calon mahasiswa asing untuk memilih tidak
+belajar di Indonesia. Sebagai gambaran bahwa untuk studi di Indonesia calon
+mahasiswa asing harus melakukan pendaftaran atau aplikasi minimal 6 bulan
+sebelumnya, proses seleksi akademis biasanya memakan waktu 1-2 bulan,
+selanjutnya proses aplikasi Ijin Belajar di Kementerian Ristek dan Dikti memakan
+waktu 2 bulan, kemudian proses Otorisasi Visa di Dirjen Imigrasi Jakarta sekitar 1-
+2 bulan, aplikasi visa di KBRI/KJRI sekitar 1 bulan. Dan setelah sampai di
+Indonesia harus segera lapor ke Imigrasi lokal dalam waktu 7 hari sejak tanggal
+kedatangan untuk memproses KITAS (Kartu Ijin Tinggal Terbatas) sekitar 1-2
+bulan, setelah KITAS jadi kemudian melapor ke POLDA untuk mendapatkan STM
+(Surat Tanda Melapor) sekitar 2-4 minggu, dan terakhir adalah melapor ke Pemda
+setempat untuk mendapatkan SKTT (Surat Keterangan Tempat Tinggal) sekitar 2-
+4 minggu. Jika hendak meninggalkan Indonesia, orang asing harus ke kantor
+imigrasi lokal untuk mendapatkan ERP (Exit Reentry Permit), MERP (Multiple
+ERP) atau EPO (Exit Permit Only).
+Dapat dibayangkan bahwa prosedur yang banyak dan memakan waktu serta
+persyaratan yang yang cukup banyak membuat orang asing setiap saat harus melihat
+prosedur dan persyaratan jika dibutuhkan, hal tersebut akan lebih mudah dilakukan
+jika mereka mendapatkan informasi tersebut langsung melalui smartphone-nya.
+5
+Oleh karena itu, perlu ada adanya suatu aplikasi mobile berbasis android dalam
+bahasa Inggris yang dapat membantu orang asing untuk belajar di Indonesia,
+sehingga penulis melakukan penelitian untuk membuat aplikasi OIA UGM:
+Panduan Studi di UGM bagi Mahasiswa Asing (Guidance to Study at UGM for
+Foreign Students).";https://eprints.utdi.ac.id/7287/ 
+3;APLIKASI PENGENALAN HAMA DAN PENYAKIT PADA TANAMAN PANGAN BERBASIS ANDROID ;"Pertanian merupakan kegiatan pemanfaatan sumber daya hayati yang
+dilakukan manusia untuk menghasilkan bahan pangan, bahan baku industri, atau
+sumber energi, serta untuk mengelola lingkungan hidupnya. Di era modern ini
+minat anak- anak muda sebagai generasi penerus disektor ini sudah banyak
+berkurang. Mereka cenderung memilih bekerja pada perusahaan ataupun pabrik
+besar dengan alasan penghasilan tetap tidak seperti bertani.
+Untuk menggeluti dunia pertanian memang bukan hal yang mudah. Pracaya
+(1999: 1) menyatakan untuk bisa berhasil petani perlu tahu ilmu bercocok tanam.
+Ilmu itu meliputi tanaman dan cara perawatannya, lahan, pengairan, dan bahkan
+metode pemasaran hasil pertanian. Pengetahuan mengenai tanaman dan cara
+perawatannya berhubungan dengan jenis-jenis tanaman yang cocok ditanam
+berdasarkan musim, apa saja hama dan penyakit tanaman yang biasa menyerang,
+dan jenis pupuk yang seperti apa yang cocok untuk digunakan. Yang terakhir,
+metode pemasaran hasil pertanian, faktor ini menjadi indikator apakah sebuah
+proses kegiatan pertanian ini berhasil atau tidak. Saat hasil melebihi biaya
+perawatan, kegiatan pertanian dikatakan berhasil, begitu pula sebaliknya.
+Seiring dengan perkembangan teknologi pengetahuan dan informasi tidak
+hanya didapatkan dari pendidikan formal saja. Sumber bisa berasal dari media
+2
+cetak ataupun elektronik yang dewasa sudah semakin mutakhir untuk mengakses
+internet. Salah satu media elektronik yang sedang berkembang adalah teknologi
+telepon pintar atau smartphone berbasis android. Menurut Arifianto (2011: 1),
+android merupakan perangkat bergerak pada sistem operasi untuk telepon seluler
+yang berbasis linux.
+Android merupakan platform terbuka atau open source sehingga para
+pengembang dapat mengganti, meningkatkan, dan menciptakan aplikasi mereka
+sendiri. Untuk itu, aplikasi pengenalan hama dan penyakit tanaman pangan
+berbasis android ini di ciptakan dengan harapan mampu menjadi sumber
+informasi bercocok tanam yang mudah diakses atau didapat oleh petani.";https://eprints.utdi.ac.id/7301/
+4;PEMETAAN LAHAN PERTANIAN TANAMAN ORGANIK DI WILAYAH KECAMATAN KOKAP KABUPATEN KULON PROGO BERBASIS OPEN STREET MAP;"Struktur tanah daerah pegunungan di kecamatan Kokap kabupaten
+Kulon Progo sangat cocok untuk digunakan sebagai lahan pertanian dan
+perkebunan tanaman organik. Kondisi ini dimanfaatkan oleh warga sekitar
+untuk menanam berbagai macam tanaman organik, diantaranya yaitu kelapa,
+cengkih, kakau, kopi, petai, durian, manggis dan kapulogo berdasarkan data
+anggota Internal Control System (Jatirogo, 2015).
+Pertanian organik merupakan sistem dengan ciri utama bekerja selaras
+dengan alam untuk mencukupi kebutuhan pangan sehat bagi umat manusia
+(Daryanto Winangun, 2005). Sistem pertanian organik adalah suatu sistem
+produksi pertanian dimana bahan organik, baik makhluk hidup maupun yang
+sudah mati, merupakan faktor penting dalam proses produksi. Penggunaan
+pupuk organik dan pupuk hayati serta pemberantasan hama, penyakit dan
+gulma secara biologis merupakan contoh penerapan sistem pertanian organik.
+Hasil dari perkebunan yang melimpah belum mampu mencukupi
+permintaan pasar, sehingga banyak pengepul yang datang langsung untuk
+membeli hasil panen dari petani. Kecamatan Kokap yang sebagian besar
+wilayahnya berada di pegunungan dan wilayahnya yang luas menyulitkan
+pengepul untuk mengetahui wilayah perkebunan tanaman organik.
+2
+Sistem Informasi Geografis (SIG) secara umum terdapat dua jenis data
+yang dapat digunakan untuk mempresentasikan atau memodelkan fenomena-
+fenomena yang terdapat di dunia nyata. Yang pertama adalah jenis data yang
+mempresentasikan aspek-aspek keruangan dari fenomena yang bersangkutan.
+Jenis data ini sering disebut sebagai data posisi, koordinat, ruang, atau spasial.
+Sedangkan yang kedua adalah jenis data yang mempresentasikan aspek aspek
+deskriptif dari fenomena yang dimodelkan. Aspek deskriptif ini mencakup
+items atau properties dari fenomena yang bersangkutan dengan dimensi
+waktunya. Jenis data ini sering disebut sebagai data atribut atau data non
+spasial (Prahasta, 2005). Untuk menggambarkan fenomena yang ada di dunia
+digambarkan dalam bentuk peta. Peta yang digunakan untuk membangun
+sistem ini yaitu Open Street Map. Kelebihan dari peta tersebut yaitu dapat
+diakses secara gratis.
+Berdasarkan permasalahan tersebut dibutuhkan aplikasi yang bertujuan
+untuk mempermudah pembeli hasil panen atau yang disebut sebagai pengepul
+dalam melihat lahan pertanian organik yang berada dikecamatan Kokap.
+Dengan mengakses aplikasi Sistem Informasi Geografis (SIG) pengepul akan
+mendapatkan informasi lokasi pertanian organik, luas lahan dan statistik hasil
+panen. Sehingga pengepul dapat langsung ke lokasi pada saat musim panen";https://eprints.utdi.ac.id/7242/ 
+5;Tehnologi Platfrom Virtualisasi Untuk Aplikasi Lowongan Kerja;"Pada jaman sekarang kebutuhan internet merupakan salah satu kebutuhan
+yang di miliki oleh setiap orang, dengan adanya internet dapat membantu
+pekerjaan manusia,fungsi kebutuhan internet dari tahun ke tahun tahun mengalami
+perubahan. Salah satu manfaat yang dapat digunakan dari adanya internet adalah
+untuk mencari lowongankerja.
+Cara mencari lowongankerja juga mengalami perubahan dari mencari
+lowongankerja melalui satu tempat ke tempat yang liannya ataupun media cetak
+sekarang mulai berganti ke media internet. Dengan adanya media internet untuk
+mencari lowongankerja dapat menghemat waktu ,biaya , dan dapat mencari
+pekerjaan yang diharapkan.Manfaat yang di dapatkan oleh pencarikerja yang
+dimudahkan dalam mencari lowogankerja hal ini juga dapat dimanfaatkan oleh
+pemberikerja untuk memberikan lowongan pekerjaannya.
+Seiring dengan perkembangan tehnologi dalam aplikasi web juga
+berpengaruh dalam perkembangan aplikasi web ,bila dulu menyimpan aplikasi di
+2
+dalam web hosting sekarang dapat di lakukan dengan mengguunakan teknologi
+virtulaisasi container. Salah satu masalah dalam penggunaan web hosting adalah
+ketika melakukan pengembangan aplikasi yang berupa penambah tehnologi web
+dimana tambahan aplikasi web tersebut tidak dapat di dukung oleh web hosting ,
+tentunya ini akan berpengaruh terhadap perkembangan web aplikasi.
+Hasil yang di dapat dari penggunaan teknologi virtulaisasi container dapat
+berupa mengurangi beban pengunaan perangkat keras, dan menggabungkan
+beberapa serivce aplikasi menjadi satu. hal ini cukup berbeda dari web hosting
+karena di dalam container hanya menggunakan sedikit dari resource host,
+container juga dapat menjalankan beberapa sistem operasi atau proses pada saat
+yang sama.
+Pada teknologi virtulaisasi container yang dapat digunakan untuk
+mempersentasikan Web yang terdapat di dalam aplikasi lowongankerja tersebut
+adalah Docker.";https://eprints.utdi.ac.id/7274/ 
+6;Implementasi Algoritma Dijkstra Pada Pencarian Rute TransJogja di Aplikasi Let’s Busway Berbasis Android ;"Di kota Yogyakarta pada bidang transportasi saat ini banyak terjadi
+penumpukan kendaraan pribadi setiap harinya, terutama pada pagi dan sore hari saat
+jam kantor. Dapat kita lihat di_kota Yogyakarta yang merupakan kota pelajar di
+mana banyak terdapat kampus dan sekolah. Padahal pemerintah telah menyediakan
+alat transportasi berupa busway yang setiap periodenya mengalami kemajuan dan
+perbaikan. “Ayo naik bus, biar nggak bikin macet”. Itulah tulisan yang sengaja
+dipajang di_badan bus, untuk mengajak masyarakat menggunakan angkutan publik
+ini agar mengurangi kemacetan akibat bertumpuknya kendaraan pribadi setiap
+harinya (WS hendro, Jawa Pos, 2015 ).
+Namun dalam hal itu, para pengguna busway masih ada yang bingung dan
+ragu dikarenakan tidak mengetahui halte terdekat busway, terutama bagi para
+pendatang dari luar kota Yogyakarta. Namun apabila terdapat sebuah aplikasi
+berbasis mobile yang dapat diakses pada gadget yang berupa pencarian halte
+terdekat, alur trayek busway, jarak tempuh, dan lainnya mungkin calon penumpang
+akan sedikit terbantu.
+Algoritma Dijkstra merupakan algoritma greedy, yaitu salah satu bentuk
+algoritma populer dalam pemecahan persoalan yang terkait dengan masalah
+optimasi. (Raden Aprian Diaz Novandi, 2007). Metode melakukan memecahkan
+masalah dengan memandang solusi yang diperoleh sebagai keputusan yang saling
+terkait. Maksudnya, solusi yang terbentuk dari suatu keputusan yang bermula dari
+2
+tahapan awal, dan kemungkinan terdapat lebih dari satu solusi. Dengan metode ini
+didapat hasil yang optimal namun memerlukan resource yang cukup besar jika
+dipakai untuk pencarian yang kompleks. Dengan demikian penggunaan algoritma
+dijkstra dapat mencari jalur halte terdekat dan jalur busway.
+Dari pemikiran diatas, akan dikembangkan suatu aplikasi “let’s busway” agar
+dapat mempermudah pencarian rute terdekat halte yang efisien. Serta padat
+memberikan informasi jalur mana akan dilewati dan memberikan gambaran tentang
+trayek yang akan digunakan.";https://eprints.utdi.ac.id/7154/ 
+7;IMPLEMENTASI VUFORIA SDK PADA AUGMENTED REALITY UNTUK PENGENALAN MOTIF BATIK BERBASIS IOS;"Batik merupakan warisan budaya Nusantara yang telah diakui oleh
+UNESCO pada tahun 2009. Pada setiap daerah di Indonesia, khusus nya di
+pulau Jawa terdapat banyak motif kain batik yang menjadi khas dari
+daerah tersebut. Terdapat dua kerajaan bersejarah di Indonesia, yaitu
+Kesultanan Yogyakarta dan Kasunanan Surakarta, yang menjadi tempat
+pembuatan batik keraton yang dikerjakan oleh pembatik ahli di lingkungan
+keraton tersebut.
+Dengan mengimplemantasikan Vuforia SDK. Vuforia SDK adalah
+SDK yang dikembangkan oleh Qualcomm untuk membantu pengembang
+dalam menciptakan aplikasi atau game yang mengadopsi teknologi
+Augmented Reality.
+SDK ini memiliki berbagai fitur seperti memindai objek ,
+memindai teks, mengenali bingkai penanda, mengidentifikasi permukaan
+objek, mengenali target gambar, mengenali target benda silinder dan
+mengenali objek yang sudah ditetapkan, sehingga membantu bagi
+pengembang aplikasi yang tidak menguasai bidang ilmu Artificial
+Intelligence.
+Vuforia SDK telah mendukung pengembangan aplikasi untuk
+perangkat berbasis iOS dan Android, selain itu Vuforia SDK juga telah
+2
+mendukung Unity Game Engine sehingga lebih mempermudah dalam
+pengembangan aplikasi berbasis teknologi Augmented Reality, sehingga
+dengan adanya Augmented Reality untuk pengenalan motif batik berbasis
+iOS ini diharapkan dapat menjadi solusi yang tepat untuk mengetahui
+informasi dari motif kain batik keraton yaitu Jogjakarta dan Surakarta
+tersebut langsung dengan menggunakan perangkat mobile berbasis iOS.";https://eprints.utdi.ac.id/7286/ 
+8;APLIKASI PEMESANAN BARANG DENGAN MENGGUNAKAN FRAMEWORK YII (STUDI KASUS USAHA SUB AGEN JAYA MANDIRI KOTA SAMARINDA);"Salah satu bentuk penerapan teknologi informasi dalam dunia bisnis adalah
+sebuah aplikasi penjualan terintegrasi, dalam artian sistem yang mampu membantu
+meningkatkan efisiensi dan efektifitas kinerja bisnis, membantu pembuatan
+keputusan manajerial sehingga menguatkan posisi kompetitif dalam kondisi pasar
+yang berubah cepat. (Damayanti, 2011).
+Cara peran teknologi informasi terhadap kemajuan organisasi sudah tidak
+diragukan lagi. Dengan dukungan teknologi informasi yang baik, maka sebuah
+perusahaan akan memiliki berbagai keunggulan kompetitif sehingga mampu bersaing
+dengan perusahaan lain. Pemanfaatan komputer sebagai alat kerja bantu, khususnya
+sebagai media pengolah data, baik yang berskala besar maupun skala kecil selalu
+memudahkan dalam proses pengerjaannya.
+Usaha sub agen Jaya Mandiri merupakan salah satu bentuk usaha dalam
+bidang perdagangan yang selalu melakukan banyak transaksi setiap minggunya.
+Usaha ini menjual kembali barang yang diambil dari berbagai agen atau supplier
+berdasarkan pemesanan barang dari pihak customer namun sistem pemesanan dan
+pencatatan data transaksi pada usaha sub agen tersebut dilakukan secara manual,
+pembeli harus melakukan kontak melalui telepon kepada pihak sub agen untuk
+memesan barang yang diinginkan, setelah itu pihak admin dari sub agen harus
+mencatat terlebih dahulu transaksi pemesanan tersebut untuk diserahkan kepada
+pihak supplier melalui nota pemesanan. Admin juga harus merekap kembali pesanan
+seperti memberikan harga baru dan menghitung total harga secara manual dalam
+bentuk nota transaksi, tidak hanya itu sebelum nota transaksi tersebut diterima oleh
+2
+pihak customer, admin harus menghitung kembali setiap hitungan yang ada dalam
+nota tersebut untuk memeriksa agar tidak ada kesalahan dalam perhitungan.
+Sistem pemesanan barang yang sudah lama diterapkan di sub agen Jaya
+Mandiri ini juga sering kali kehilangan data pemesanan saat diperlukan dan juga
+tidak mudah dalam pencarian data pemesanan yang telah ada karena diperlukan
+tempat penyimpanan kertas yang besar serta efesiensi waktu yang kurang baik,
+beberapa nota juga harus dibuang karena tidak ada tempat untuk menyimpannya,
+padahal dari pemanfaatan nota tersebut pihak pengusaha dapat melihat tingkat
+penjualan dan laporan lainnya yang dibutuhkan, oleh karena itu dibutuhkan sistem
+berbasis komputer yang dapat menangani masalah tersebut terutama dalam hal
+pengolahan beberapa data yang dihasilkan.
+Teknologi framework Yii mendukung untuk pemograman database, selain itu
+Yii dibangun diatas exstension PHP Data Objects (PDO), Yii Data access objects
+(DAO) yang memungkinkan pengaksesan ke Database Management System (DBMS)
+yang berbeda dalam satu antarmuka tunggal yang seragam. Salah satu kelebihan
+framework Yii adalah membuat program dilengkapi dengan Gii (Generator),
+sehingga secara otomatis tercipta beberapa folder dan template aplikasi. Framework
+Yii mengimplementasikan pola desain Model-View-Controller (MVC). MVC
+bertujuan untuk memisahkan proses bisnis dari pertimbangan antar muka user agar
+para pengembang bisa lebih mudah mengubah setiap bagian tanpa memengaruhi yang
+lain. (Badiyanto, 2016).
+Didasari oleh uraian diatas maka akan diterapkan teknologi framework yii
+berbasis website terutama dalam penggunaan fitur generator berbasis web (Gii) yang
+berupa modul dalam proses Create, Read, Update, Delete (CRUD) pada database,
+sehingga pemograman juga akan menjadi lebih terstruktur dalam merekam transaksi
+yang dilakukan seperti pemesanan barang dan pembukuan nota pemesanan yang
+sebelumnya dilakukan secara manual, serta dapat merekam semua data transaksi
+untuk menghasilkan laporan pemesan barang paling banyak per periode tertentu.";https://eprints.utdi.ac.id/7159/ 
